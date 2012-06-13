@@ -1,0 +1,17 @@
+{
+  "author": "Matthew Lehner <matthewlehner@gmail.com>",
+  "name": "zeptoify",
+  "description": "Zepto library for browsers",
+  "version": "1.0.0rc1",
+  "homepage": "http://zeptojs.com",
+  "repository": {
+    "url": "git"
+  },
+  "main": "./index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "optionalDependencies": {},
+  "engines": {
+    "node": "*"
+  }
+}
